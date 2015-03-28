@@ -13,11 +13,6 @@ Advantage:
 -Smaller Missionfile
 
 
-Download:
-https://github.com/G...tspawner-Master
-(with Arma 3 standart items/weapons/buildings/settings in it)
- 
-
 Install:
 1.0      Configure the Lootspawner: (or paste your previous settings in it)
 1.1      'Lootspawner.sqf' to change the available variables as needed  (ex. spawninterval, chance of loot, categories of loot...)

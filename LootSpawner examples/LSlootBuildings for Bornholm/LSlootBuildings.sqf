@@ -9,25 +9,7 @@
 //!!!EVERY building must have only ONE entry here AND been in ONE class!!!
 //-------------------------------------------------------------------------------------
 Buildingstoloot_list = [
-//["Land_Addon_01_V1_dam_F", 0],		//not viable
-//["Land_Airport_center_F", 0],			//no positions
-//["Land_cargo_addon01_V1_F", 0], 		//no positions
-//["Land_cargo_addon01_V2_F", 0], 		//no positions
-//["Land_cargo_addon02_V2_F", 0], 		//no positions
-//["Land_Castle_01_tower_F", 0],		//no positions
-//["Land_Communication_anchor_F", 0], 	//no positions
-//["Land_Communication_F", 0], 			//no positions
-//["Land_dp_smallFactory_F", 0], 		//no positions
-//["Land_dp_smallTank_F", 0], 			//no positions
-//["Land_Factory_Hopper_F", 0],			//no positions
-//["Land_Garage_V1_dam_F", 0], 			//not viable
-//["Land_ReservoirTank_Airport_F", 0], 	//no positions
-//["Land_ReservoirTower_F", 2],			//no positions
-//["Land_Shed_Big_F", 0], 				//no positions
-//["Land_Shed_Small_F", 0],  			//no positions
-//["Land_TBox_F", 0], 					//no positions
-//["Land_TTowerBig_1_F", 2],			//no positions
-//["Land_TTowerBig_2_F", 2],			//no positions
+
 ["Land_Airport_left_F", 0],
 ["Land_Airport_right_F", 0],
 ["Land_Airport_Tower_dam_F", 2],
@@ -135,5 +117,18 @@ Buildingstoloot_list = [
 ["Land_u_Shed_Ind_F", 2],
 ["Land_u_Shop_01_V1_F", 0],
 ["Land_u_Shop_02_V1_F", 0],
-["Land_WIP_F", 2]
+["Land_WIP_F", 2],
+//costum buildings
+["Land_bo_Panelak2", 0],
+["Land_bo_Panelak", 0],
+["Land_bo_A_GeneralStore_01", 0],
+["Land_bo_Sara_domek_sedy", 0],
+["Land_bo_HouseV_2T2", 0],
+["Land_bo_HouseB_Tenement", 0],
+["Land_bo_Dum_mesto2", 0],
+["Land_bo_Shed_Ind02", 0],
+["Land_bo_Barn_W_02", 0],
+["Land_bo_stodola_old_open", 0],
+["Land_bo_Barn_W_01", 2],
+["Land_bo_HouseV_1I4", 0]
 ];
